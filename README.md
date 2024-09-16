@@ -10,7 +10,7 @@ As a Senior Consultant at Infosys, I'm deeply committed to fortifying organizati
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in testing and supporting different applications has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as Cyber Security Architect.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -58,8 +58,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Cloud Landing Zone
+- Vulnerability Management
 
 <!---
 PratikCyberSec/PratikCyberSec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
